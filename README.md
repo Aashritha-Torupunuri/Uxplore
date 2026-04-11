@@ -1,6 +1,6 @@
 # UXplore
 
-A high-fidelity web platform designed to make UX education accessible and engaging for first-year students. Built as a group project for UX103 at Wilfrid Laurier University.
+A high-fidelity web platform designed to make UX education accessible and engaging for first-year students. Built as a  project for UX at Wilfrid Laurier University.
 
 🔗 **[Live Demo](#)** ← paste your Vercel/Netlify link here
 
@@ -75,12 +75,6 @@ npm run preview
 ├── astro.config.mjs
 └── package.json
 ```
-
----
-
-## Team
-
-Built by a group of UX103 students at Wilfrid Laurier University.
 
 ---
 
