@@ -2,8 +2,7 @@
 
 A high-fidelity web platform designed to make UX education accessible and engaging for first-year students. Built as a  project for UX at Wilfrid Laurier University.
 
-🔗 **[Live Demo](#)** ← paste your Vercel/Netlify link here
-
+🔗 **[Live Demo](https://uxplore-henna.vercel.app)**
 ---
 
 ## What it does
